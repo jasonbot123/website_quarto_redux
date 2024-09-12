@@ -4,4 +4,4 @@ title: "About"
 
 About this site
 
-This is a description of my website.
+In my third year at the University of Toronto, I am deeply immersed in the fields of statistics and computer science, where I am constantly honing my skills in data analysis, machine learning, and programming. This year has been pivotal in shaping my understanding of both theoretical and practical aspects of these disciplines. I’m becoming more adept at solving complex problems using statistical methods and programming languages like Python and R. Alongside my academic pursuits, I continue to enjoy my passions for basketball, guitar, and fitness, which help me maintain a balanced lifestyle. As an international student, I have become more accustomed to the challenges of studying abroad, embracing them as opportunities for growth. With each step, I am moving closer to my goal of becoming a well-rounded data scientist and machine learning expert.
